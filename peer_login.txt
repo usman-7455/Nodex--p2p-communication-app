@@ -1,0 +1,6 @@
+usman:123
+faraz:234
+basit:345
+muiz:456
+faizan:567
+abdullah:123
