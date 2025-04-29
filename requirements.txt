@@ -1,0 +1,13 @@
+# Standard Libraries (already included with Python)
+socket
+threading
+tkinter
+os
+time
+tkinter.messagebox
+tkinter.filedialog
+tkinter.simpledialog
+tkinter.ttk
+
+# Third-party Libraries (need to be installed)
+cryptography
